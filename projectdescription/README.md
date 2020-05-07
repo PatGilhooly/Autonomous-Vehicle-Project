@@ -11,6 +11,6 @@ For each of the cars in the simulation, determine their lane. Using a cost funct
 
 ## Simulation 
 
-Car changing lane.
+In the image below, the simulation environment is shown. At this particular instance, the ego car sees a car ahead, checks if a lane change can be made and then executes a left lane change. This is an example of the behavioural planning that was implemented.
 
 ![change lanes](Change_lanes.png)
