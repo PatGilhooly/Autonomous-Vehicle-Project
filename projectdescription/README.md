@@ -13,4 +13,4 @@ For each of the cars in the simulation, determine their lane. Using a cost funct
 
 Car changing lane.
 
-![Car change lanes](Change lanes.png)
+![](Change lanes.png)
